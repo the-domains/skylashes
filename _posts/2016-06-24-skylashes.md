@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Artwork and stories by Skylar McClellan.
-datePublished: '2016-06-24T21:06:29.870Z'
-dateModified: '2016-06-24T21:06:15.068Z'
+datePublished: '2016-06-24T21:09:02.584Z'
+dateModified: '2016-06-24T21:06:36.989Z'
 title: Skylashes
 author: []
+sourcePath: _posts/2016-06-24-skylashes.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-24-skylashes.md
 url: skylashes/index.html
 _type: Article
 
