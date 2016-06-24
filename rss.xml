@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[skylashes]]></title>
+        <description><![CDATA[skylashes]]></description>
+        <link>https://thegrid.ai/skylashes/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 24 Jun 2016 21:09:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/skylashes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Skylashes]]></title>
+            <description><![CDATA[<article><h1>Skylashes</h1><p>Artwork and stories by Skylar McClellan.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f34e837c0cbe022223c51d45e6d6c65/croprotate.jpg?cropheight=2732&cropwidth=2049&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc84cb86c-ea11-45cb-86e8-df69a721e8ac.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/skylashes/skylashes/index.html</link>
+            <guid isPermaLink="false">84e7ff85-9784-48d5-8851-e2694b35624f</guid>
+            <pubDate>Fri, 24 Jun 2016 21:09:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
